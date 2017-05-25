@@ -3,156 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\10e6035eed91a6759f0f706aabd57970ac1d6942\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2915a61dfcb1fbe892827277b5502e3966c2ac28\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\cea85c247a39113df33bf3004b98dfab60f7b431\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ab5eb91f580e4a78777888cb21617eaa26a8703\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\73974d1eae9e051ec75b1d9f61db55120730d380\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b95ba91c5495929cab06b35e0e3aaaead031d74\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-4\3f5f1498bdbb9611cb1413f794b3a3a5a6edef34\kotlin-stdlib-1.1.2-4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3f5f1498bdbb9611cb1413f794b3a3a5a6edef34">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.1.2-4_4f61a87eba085c6aa0b944cd8043e6f033611e48\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-4\e6a7403299b8f3126e3a1576c02e3f07ae5af6fa\kotlin-stdlib-jre7-1.1.2-4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="e6a7403299b8f3126e3a1576c02e3f07ae5af6fa">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.1.2-4_787810c4846bd611ed521c43335ba7435bb6a02e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\76e9bfd017042eb72af1a1361aceee8fd82a0f14\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bda552c810d52fa507d9a3f1d904eeb7eede52c3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_cfa7e4f6acdbb5a37cc4fde833ccf160c11355f4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="E:\OfficeWork\Project\CommunityAndroid\mySample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ff4c7f98d3ca3030c2db7d234d97060b29d95475\classes.dex" />
+        <dex dex="E:\OfficeWork\Project\CommunityAndroid\mySample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c4146fd40aa7455512294d9d201f3d23c2b019e7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\f8e6ce9526428fa63e31381d39b6ee8b3cf7768b\output\jars\classes.jar"
+        jar="E:\OfficeWork\Project\CommunityAndroid\mySample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6995540fe225ed36160f758ab52e2b1f0cac1782\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_46e37c71cff63c62d982cbdbe285d0b1694dfd7e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\a1174a7c12d700282036c272f5b01337d4de0980\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e36745d8a2cca5218056ce4cf8fd92759fe93b74\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\41cbfd7407e580e962435c70688ed021d90ffa7b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33ecde70f6bdbbe0c9ff96c366e41355e77acc62\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ea79b46eba9e75fd1b3c435e97e6eb68169ea8ed">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5512112d5675f49c6283672da0e7625fcf4e8637\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\7b9ef594245fd434f87267dce7f09bc6b29cc37b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6a1d32f3a941b0b3513a39f387823a4af99b651\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\04132cede39c6e433bbd2d71178b910fd9b5a28f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81a716862230e7c533ccee21a4fd7624d82f21c8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_30acb89639896b8d1cd94a7b9c1ad5f85403b992\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\ea4f4489ee6429b435dcd17adf90c1f0c0cf5d32\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="E:\OfficeWork\Project\CommunityAndroid\KotlinSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cec8674a3af230d2144b6f830a589f47d1cdd132\classes.dex" />
+        sha1="e9bd052049e30edbd3c8182d80858006cc6d7610">
+        <dex dex="E:\OfficeWork\Project\CommunityAndroid\mySample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_98b7e84b171073c6a1209b6d5301c85c32d08951\classes.dex" />
     </item>
 
 </items>

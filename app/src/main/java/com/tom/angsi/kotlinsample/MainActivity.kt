@@ -1,16 +1,20 @@
 package com.tom.angsi.kotlinsample
 
+import android.content.DialogInterface
+import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v4.widget.DrawerLayout
 import android.support.v7.app.ActionBarDrawerToggle
 import android.support.v7.graphics.drawable.DrawerArrowDrawable
 import android.view.View
+import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageView
 import android.widget.Toast
+import java.util.*
 
-class MainActivity : BaseActivity(),DrawerLayout.DrawerListener {
+class MainActivity : BaseActivity(),DrawerLayout.DrawerListener,View.OnClickListener{
 
     //设置layout
     override fun setLayout(): Int {
@@ -29,6 +33,8 @@ class MainActivity : BaseActivity(),DrawerLayout.DrawerListener {
      */
     private fun initleft() {
         val left = findViewById(R.id.left) as DrawerLayout
+        val lef = left.findViewById(R.id.sensor) as Button
+        lef.setOnClickListener(this)
         left.addDrawerListener(this)
 
     }
@@ -36,6 +42,12 @@ class MainActivity : BaseActivity(),DrawerLayout.DrawerListener {
     fun initView(){
         val background = findViewById(R.id.backgroud) as ImageView
     }
+
+    override fun onClick(v: View?) {
+        val intent = Intent(MainActivity@this,SensorActivity::class.java)
+        startActivity(intent)
+    }
+
 
     //override DrawerLayout.DrawerListener
     override fun onDrawerSlide(drawerView: View?, slideOffset: Float) {
